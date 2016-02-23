@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./inscriptioroset00bruggoog_0045.png"; bbox 0 0 4958 6458; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1054 2659 1668 2720">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1054 2659 1668 2720">
+     <span class='ocr_line' id='line_1_1' title="bbox 1054 2659 1668 2720; baseline -0.003 -12"><span class='ocrx_word' id='word_1_1' title='bbox 1054 2661 1215 2720; x_wconf 72' lang='lat' dir='ltr'><strong>annum,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1244 2659 1338 2707; x_wconf 69' lang='lat' dir='ltr'>wls</span> <span class='ocrx_word' id='word_1_3' title='bbox 1367 2659 1507 2707; x_wconf 70' lang='lat' dir='ltr'>eusrm</span> <span class='ocrx_word' id='word_1_4' title='bbox 1534 2660 1668 2708; x_wconf 69' lang='lat' dir='ltr'>somn.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1096 5837 1334 5954">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1096 5837 1334 5954">
+     <span class='ocr_line' id='line_1_2' title="bbox 1096 5837 1334 5954; baseline -0.004 -67"><span class='ocrx_word' id='word_1_5' title='bbox 1096 5837 1334 5954; x_wconf 53' lang='lat' dir='ltr'>§yxMOLQ‘v</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1073 5910 1288 6010">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1073 5910 1288 6010">
+     <span class='ocr_line' id='line_1_3' title="bbox 1073 5910 1288 6010; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1073 5910 1288 6010; x_wconf 34' lang='lat' dir='ltr'>poxfofin</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1109 6051 1298 6131">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1109 6051 1298 6131">
+     <span class='ocr_line' id='line_1_4' title="bbox 1109 6051 1298 6131; baseline -0.016 -4"><span class='ocrx_word' id='word_1_7' title='bbox 1109 6051 1298 6131; x_wconf 55' lang='lat' dir='ltr'>&#39;hosfium</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2484 6452">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2484 6452">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2484 6452; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2484 6452; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
